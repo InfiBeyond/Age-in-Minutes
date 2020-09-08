@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.nanxinqin.age_in_minutes"
+        applicationId "com.nanxinqin.ageinminutes"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1

@@ -1,4 +1,4 @@
-package com.nanxinqin.age_in_minutes
+package com.nanxinqin.ageinminutes
 
 import org.junit.Test
 
